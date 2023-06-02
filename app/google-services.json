@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "341089123152",
+    "firebase_url": "https://house-afternoon-app-default-rtdb.firebaseio.com",
+    "project_id": "house-afternoon-app",
+    "storage_bucket": "house-afternoon-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:341089123152:android:75f35f2d6ceba0acb90a55",
+        "android_client_info": {
+          "package_name": "com.example.nyumbakumi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuifvhgcBvy9E2me7hvLRtkZu_ou8wWxM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
