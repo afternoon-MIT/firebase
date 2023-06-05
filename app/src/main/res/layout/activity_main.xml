@@ -14,8 +14,8 @@
         android:layout_marginTop="26dp"
         android:backgroundTint="@android:color/holo_green_dark"
         android:ems="10"
+        android:hint="ENTER EMAIL"
         android:inputType="textEmailAddress"
-        android:text="ENTER EMAIL"
         app:layout_constraintEnd_toEndOf="@+id/btnregister"
         app:layout_constraintStart_toStartOf="@+id/txtlogin"
         app:layout_constraintTop_toBottomOf="@+id/txtregister" />
